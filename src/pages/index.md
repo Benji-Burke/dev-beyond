@@ -2,7 +2,7 @@
 title: Home
 menus:
   main:
-    title: Home
+    title: Dev Beyond
     weight: 1
 template: home
 ---
